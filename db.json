@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "video_matting": [
+    { "id": "1", "status":"Pending", "progress":0 ,"result_url": ""},
+    { "id": "2", "status":"Processing", "progress":30 ,"result_url": ""},
+    { "id": "3", "status":"Success", "progress":100 ,"result_url": "http://se-talkinghead.oss-cn-hangzhou.aliyuncs.com/result/e72a9a5cf55711eebc1b0242ac110006.webm"},
+    { "id": "4", "status":"Fail" ,"result_url": ""},
+    { "id": "5", "status":"Success", "progress":100 ,"result_url": "http://se-talkinghead.oss-cn-hangzhou.aliyuncs.com/result/d271049cf55811eebc1b0242ac110006.webm"}
+  ]
 }
