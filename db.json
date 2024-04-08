@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "video_matting": [
+  "video_mattings": [
     { "id": "1", "status":"Pending", "progress":0 ,"result_url": ""},
     { "id": "2", "status":"Processing", "progress":30 ,"result_url": ""},
     { "id": "3", "status":"Success", "progress":100 ,"result_url": "http://se-talkinghead.oss-cn-hangzhou.aliyuncs.com/result/e72a9a5cf55711eebc1b0242ac110006.webm"},
