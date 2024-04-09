@@ -11,6 +11,9 @@
   "profile": {
     "name": "typicode"
   },
+  "video_matting":{
+     "task_id": "1", "status":"Pending", "progress":0 ,"result_url": ""
+  },
   "video_mattings": [
     { "task_id": "1", "status":"Pending", "progress":0 ,"result_url": ""},
     { "task_id": "2", "status":"Processing", "progress":30 ,"result_url": ""},
